@@ -1,0 +1,24 @@
+{
+  "name": "desafiofox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danizavtz/desafiofox.git"
+  },
+  "author": "danizavtz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danizavtz/desafiofox/issues"
+  },
+  "homepage": "https://github.com/danizavtz/desafiofox#readme",
+  "devDependencies": {
+    "chai": "^4.4.1",
+    "mocha": "^10.3.0",
+    "nyc": "^15.1.0"
+  }
+}
