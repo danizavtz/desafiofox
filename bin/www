@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+const app = require('../index.js');
+const path = require('path');
+
+app.processLineByLine(path.resolve('data.txt')).then((value) => {
+    console.log(value);
+}).catch((err) => {
+    console.log(err);
+});
