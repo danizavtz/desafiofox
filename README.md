@@ -10,8 +10,6 @@ Se houver dúvidas, verifique onde estão os arquivos `package.json` esse é a d
 Este projeto não possui dependências para execução. Ele utiliza apenas as funções fornecidas pela biblioteca padrão do nodejs.
 São eles, `path`, `fs`, `readline`.
 
-As outras coisas que importo são códigos escritos por mim para facilitar a leitura dos dados de arquivos e uma classe que possui os as funções para interagir com o que foi lido dos arquivos.
-
 ## Instruções para rodar aplicação:
 
 Supondo que está no diretório raiz, basta simplesmente executar o comando:
